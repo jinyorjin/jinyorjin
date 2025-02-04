@@ -31,5 +31,4 @@ A sleek and modern personal website showcasing my projects and blog posts.
 
 ## 📫 Contact Me
 📧 Email: lqye92@gmail.com
-🐦 Twitter: [@jin_dev](https://twitter.com/jin_dev)  
 💼 LinkedIn: [Eunjin Kim](https://www.linkedin.com/in/eunjin-kim-02455a160/))
