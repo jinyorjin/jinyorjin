@@ -26,8 +26,8 @@ A sleek and modern personal website showcasing my projects and blog posts.
 - 🔹 Responsive and optimized for SEO
 
 ## 🚀 Current Learning
-🎯 **The Web Developer Bootcamp 2024** (Udemy) – 26% Complete
-🎯 **Ultimate C# Masterclass 2025** (Udemy) – Not Started
+🎯 **The Web Developer Bootcamp 2024** 
+🎯 **Ultimate C# Masterclass 2025** 
 
 
 ## 📫 Contact Me
