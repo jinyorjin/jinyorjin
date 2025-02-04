@@ -11,6 +11,11 @@
 - **Backend**: Node.js, Express.js, Firebase, PostgreSQL
 - **DevOps & Tools**: Git, GitHub, Docker, Vercel, Netlify
 - **Programming Languages**: JavaScript, TypeScript, Python, C#
+- ## 🛠 Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+
 
 ## 📌 Featured Projects
 ### [DEV@Deakin](https://github.com/jinyorjin/9.1Task.git)
