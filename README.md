@@ -1,6 +1,6 @@
 # Welcome to Jin's GitHub 🚀
 
-https://www.canva.com/design/DAGeGz8exN0/66mnnkWRkmY-lXGnhDb7vQ/edit?utm_content=DAGeGz8exN0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+![Uploading image.png…]()
 
 
 ## About Me
