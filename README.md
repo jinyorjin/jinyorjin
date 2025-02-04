@@ -28,6 +28,10 @@ A sleek and modern personal website showcasing my projects and blog posts.
 🎯 **The Web Developer Bootcamp 2024** 
 🎯 **Ultimate C# Masterclass 2025** 
 
+## My Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinyorjin&layout=compact)
+
+
 
 ## 📫 Contact Me
 📧 Email: lqye92@gmail.com
