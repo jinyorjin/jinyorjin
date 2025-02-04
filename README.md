@@ -1,5 +1,6 @@
-![image](https://github.com/user-attachments/assets/fd43e7d1-c83e-4af9-bc78-fede916e2965)# Welcome to Jin's GitHub 🚀
+# Welcome to Jin's GitHub 🚀
 
+![image](https://github.com/user-attachments/assets/048bc6a4-ea85-4741-9f24-2fd02cdac08c)
 
 
 
