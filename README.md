@@ -2,8 +2,6 @@
 
 
 
-Welcome to Jin's github
-
 
 ## About Me
 👋 Hi, I'm **Jin (Eunjin Kim)**, a passionate Full Stack Developer studying Computer Science at Deakin University. I'm currently working on various projects involving **React, Node.js, Firebase, and C#**.
