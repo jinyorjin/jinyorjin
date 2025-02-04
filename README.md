@@ -1,6 +1,7 @@
 # Welcome to Jin's GitHub 🚀
 
 ![image](https://github.com/user-attachments/assets/07070411-47d4-4b25-9b53-25b2a62d57ae)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello,+I'm+Jin!+👋;Full+Stack+Developer;Passionate+about+Coding!)](https://git.io/typing-svg)
 
 ## About Me
 👋 Hi, I'm **Jin (Eunjin Kim)**, a passionate Full Stack Developer studying Computer Science at Deakin University. I'm currently working on various projects involving **React, Node.js, Firebase, and C#**.
