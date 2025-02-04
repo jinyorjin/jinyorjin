@@ -1,5 +1,6 @@
 # Welcome to Jin's GitHub 🚀
 
+![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20Jin's%20GitHub&fontSize=40&animation=fadeIn&fontColor=ffffff)
 ![image](https://github.com/user-attachments/assets/07070411-47d4-4b25-9b53-25b2a62d57ae)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello,+I'm+Jin!+👋;Full+Stack+Developer;Passionate+about+Coding!)](https://git.io/typing-svg)
 
