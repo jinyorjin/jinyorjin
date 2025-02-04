@@ -1,7 +1,6 @@
 # Welcome to Jin's GitHub 🚀
 
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/07070411-47d4-4b25-9b53-25b2a62d57ae)
 
 ## About Me
 👋 Hi, I'm **Jin (Eunjin Kim)**, a passionate Full Stack Developer studying Computer Science at Deakin University. I'm currently working on various projects involving **React, Node.js, Firebase, and C#**.
