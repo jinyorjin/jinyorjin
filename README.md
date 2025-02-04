@@ -1,7 +1,7 @@
 # Welcome to Jin's GitHub 🚀
 
-![image](https://github.com/user-attachments/assets/048bc6a4-ea85-4741-9f24-2fd02cdac08c)
-
+[[![image](https://github.com/user-attachments/assets/048bc6a4-ea85-4741-9f24-2fd02cdac08c)](https://www.canva.com/design/DAGeGz8exN0/66mnnkWRkmY-lXGnhDb7vQ/edit?utm_content=DAGeGz8exN0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+](https://www.canva.com/design/DAGeGz8exN0/66mnnkWRkmY-lXGnhDb7vQ/edit?utm_content=DAGeGz8exN0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 ## About Me
