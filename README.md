@@ -1,6 +1,7 @@
 # Welcome to Jin's GitHub 🚀
 
-![Jin's GitHub Logo](./logo.png)
+![Banner](https://via.placeholder.com/1000x250.png?text=Welcome+to+Jin's+GitHub)
+
 
 
 ## About Me
