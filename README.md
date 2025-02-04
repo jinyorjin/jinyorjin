@@ -1,4 +1,5 @@
 # Welcome to Jin's GitHub 🚀
+![Welcome Banner](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=Welcome%20to%20Jin's%20GitHub&fontSize=30&fontColor=ffffff&animation=fadeIn)
 ![Welcome Banner](https://capsule-render.vercel.app/api?type=rect&text=Welcome%20to%20Jin's%20GitHub&fontAlign=50&fontColor=ffffff&height=200&color=gradient)
 
 
