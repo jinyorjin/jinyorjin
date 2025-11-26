@@ -1,28 +1,31 @@
-# Welcome to Jin's GitHub
+# Welcome to Jin’s GitHub
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20Jin's%20GitHub&fontSize=32&fontAlignY=40)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Hi+there!+I'm+Jin.;Full+Stack+Developer;React%2C+Node.js%2C+Firebase+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=36BCF7&width=500&lines=Hi+there!+I'm+Jin.;Full-Stack+Developer;React+%7C+Node+%7C+Firebase;Cloud+interested)](https://git.io/typing-svg)
 
 ---
 
 ## About Me
 
-Hi, I’m **Eunjin Kim**, based in Melbourne and currently studying **Computer Science at Deakin University**.  
-I enjoy building web apps that are not just functional but delightful to use — from simple tools to full-stack applications.
+Hi, I’m **Eunjin (Jin) Kim**, based in Melbourne and currently studying **Computer Science at Deakin University**.  
+I enjoy building practical, user-friendly web applications using modern web technologies.
 
-I’m especially interested in frontend development with **React**, and love working with **Firebase** for real-time features.  
-Lately, I’ve been expanding into **C#**, **DevOps**, and exploring how to write cleaner, more scalable code.
+My current development interests include:
+- Frontend development with **React**
+- Serverless and real-time apps using **Firebase**
+- Backend development with **Node.js**
+- Learning about **AWS, distributed systems, and scalability**
 
-[**My QR Portfolio Website**](https://jinyorjin.github.io/qr-portfolio/)  
-A quick-access resume site — perfect for sharing on the go.
+Portfolio (QR-based):  
+https://jinyorjin.github.io/qr-portfolio/
 
 ---
 
 ## Tech Stack
 
 **Languages & Frameworks**  
-`JavaScript` | `TypeScript` | `Python` | `C#`  
+`JavaScript` | `TypeScript` | `Python`  
 `React` | `Next.js` | `Node.js` | `Express.js`
 
 **Styling & UI**  
@@ -33,106 +36,73 @@ A quick-access resume site — perfect for sharing on the go.
 `Netlify` | `Vercel`
 
 **Tools & DevOps**  
-`Git` | `GitHub` | `Docker` | `Jenkins`
+`Git` | `GitHub` | `Docker` | `Jenkins`  
+(Currently learning AWS fundamentals)
 
 ---
 
 ## Featured Projects
 
-### [BabyNaps - Sleep Tracker](https://github.com/jinyorjin/babynaps.git)  
-A simple sleep tracker for babies, designed for ease of use.  
-Built with React + Firebase  
+### BabyNaps – Sleep Tracker  
+https://github.com/jinyorjin/babynaps.git  
+- React + Firebase  
 - Real-time logging  
-- Visual timeline of sleep sessions
+- Timeline visualization  
 
 ---
 
-### [Weight Tracker - Web Version](https://github.com/jinyorjin/weight-tracker.git)  
-Track your weight over time with a friendly interface.  
+### Weight Tracker (Web)  
+https://github.com/jinyorjin/weight-tracker.git  
 - CRUD entries  
-- Calendar view and goal tracking  
-- Fun status icons
+- Calendar view  
+- Goal-based weight indicators  
 
 ---
 
-### [Weight Tracker - Mobile](https://github.com/jinyorjin/weight-tracker-mobile.git)  
-A streamlined mobile-first version of the weight tracker.  
-- Simple UI for daily use  
-- Firebase sync
+### Weight Tracker (Mobile)  
+https://github.com/jinyorjin/weight-tracker-mobile.git  
+- Mobile-first UX  
+- Firebase sync  
 
 ---
 
-### [DEV@Deakin](https://github.com/jinyorjin/9.1Task.git)  
-A Q&A platform for Deakin students with premium features  
-- Firebase auth and Firestore  
-- Stripe subscriptions  
-- Deployed on Netlify and Heroku
+### DEV@Deakin  
+https://github.com/jinyorjin/9.1Task.git  
+- Q&A platform  
+- Firebase Auth + Firestore  
+- Stripe subscription  
+- Deployed on Netlify & Heroku  
 
 ---
 
-### [Personal Portfolio](https://github.com/jinyorjin/Task-1.1P)  
-A clean, responsive portfolio site built with React and Tailwind  
-- Project showcase  
-- Blog-ready layout  
-- Hosted on GitHub Pages
+### Personal Portfolio  
+https://github.com/jinyorjin/Task-1.1P  
+- Responsive personal site using React and Tailwind  
+- Hosted on GitHub Pages  
 
 ---
 
-## What I’m Learning
+## Currently Learning
 
-- Studying Computer Science at Deakin University  
+- Computer Science @ Deakin  
 - Web Developer Bootcamp 2024 (Udemy)  
-- Ultimate C# Masterclass 2025 (Udemy)
+- Fundamentals of cloud computing and AWS  
+- Writing maintainable and scalable frontend/backend code
 
 ---
 
-## GitHub Highlights
+## GitHub Activity
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=jinyorjin&theme=gruvbox)
-
----
-
-## GitHub Stats
-
-| ![Stats](https://github-readme-stats.vercel.app/api?username=jinyorjin&show_icons=true&theme=radical) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinyorjin&layout=compact&theme=radical) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jinyorjin&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=jinyorjin&theme=gruvbox&margin-w=8)
 
 ---
 
 ## Contact
 
-- Email: [lqye92@gmail.com](mailto:lqye92@gmail.com)  
-- LinkedIn: [linkedin.com/in/eunjin-kim-02455a160](https://www.linkedin.com/in/eunjin-kim-02455a160/)
+Email: **lqye92@gmail.com**  
+LinkedIn: https://www.linkedin.com/in/eunjin-kim-02455a160/
 
 ---
 
-Thank you for visiting my GitHub. Feel free to explore my projects and connect.
+Thanks for visiting — feel free to explore my repositories or reach out.
 
-
----
-
-## GitHub Highlights
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=jinyorjin&theme=gruvbox)
-
----
-
-## GitHub Stats
-
-| ![Stats](https://github-readme-stats.vercel.app/api?username=jinyorjin&show_icons=true&theme=radical) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinyorjin&layout=compact&theme=radical) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jinyorjin&theme=radical)
-
----
-
-## Contact
-
-- Email: [lqye92@gmail.com](mailto:lqye92@gmail.com)  
-- LinkedIn: [linkedin.com/in/eunjin-kim-02455a160](https://www.linkedin.com/in/eunjin-kim-02455a160/)
-
----
-
-Thank you for visiting my GitHub. Feel free to explore my projects and connect.
