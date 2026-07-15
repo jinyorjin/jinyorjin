@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:0891b2&height=220&section=header&text=EUNJIN%20KIM&fontSize=52&fontColor=ffffff&fontAlignY=37&desc=FULL-STACK%20DEVELOPER%20%7C%20BACKEND%20%7C%20AI%20%7C%20DATA&descSize=16&descAlignY=59&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:022c22,50:064e3b,100:10b981&height=220&section=header&text=EUNJIN%20KIM&fontSize=52&fontColor=ffffff&fontAlignY=37&desc=FULL-STACK%20DEVELOPER%20%7C%20BACKEND%20%7C%20AI%20%7C%20DATA&descSize=16&descAlignY=59&animation=fadeIn" />
 
 # BUILDING PRACTICAL SOFTWARE
 
@@ -8,14 +8,18 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jinyorjin.github.io/qr-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eunjin-kim-02455a160/)
-[![Email](https://img.shields.io/badge/EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lqye92@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=jinyorjin&label=PROFILE+VIEWS&color=0891b2&style=for-the-badge)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jinyorjin.github.io/qr-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-022C22?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eunjin-kim-02455a160/)
+[![Email](https://img.shields.io/badge/EMAIL-022C22?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lqye92@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=jinyorjin&label=PROFILE+VIEWS&color=10b981&style=for-the-badge)
 
 </div>
 
----
+<br>
+
+<div align="center">
+<img width="100%" height="2" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="divider">
+</div>
 
 ## DEVELOPER PROFILE
 
@@ -31,7 +35,9 @@ I build applications across frontend development, backend APIs, databases, autom
 
 My work focuses on turning real problems into functional software, from Android applications and REST APIs to real-time web platforms and data-driven systems.
 
----
+<div align="center">
+<img width="100%" height="2" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="divider">
+</div>
 
 ## FEATURED WORK
 
@@ -46,10 +52,10 @@ My work focuses on turning real problems into functional software, from Android 
 
 <br><br>
 
-<img src="https://img.shields.io/badge/C%23-111827?style=flat-square&logo=csharp&logoColor=22d3ee" />
-<img src="https://img.shields.io/badge/ASP.NET_Core-111827?style=flat-square&logo=dotnet&logoColor=22d3ee" />
-<img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=22d3ee" />
-<img src="https://img.shields.io/badge/EF_Core-111827?style=flat-square&logo=dotnet&logoColor=22d3ee" />
+<img src="https://img.shields.io/badge/C%23-022C22?style=flat-square&logo=csharp&logoColor=34d399" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-022C22?style=flat-square&logo=dotnet&logoColor=34d399" />
+<img src="https://img.shields.io/badge/PostgreSQL-022C22?style=flat-square&logo=postgresql&logoColor=34d399" />
+<img src="https://img.shields.io/badge/EF_Core-022C22?style=flat-square&logo=dotnet&logoColor=34d399" />
 
 <br><br>
 
@@ -64,7 +70,7 @@ Tested 15 API requests using Swagger, Postman and Newman with zero failures.
 <br>
 
 <a href="https://github.com/jinyorjin/Build-Your-Own-Backend-5.2HD">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0891B2?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-10B981?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -77,10 +83,10 @@ Tested 15 API requests using Swagger, Postman and Newman with zero failures.
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=22d3ee" />
-<img src="https://img.shields.io/badge/Android-111827?style=flat-square&logo=android&logoColor=22d3ee" />
-<img src="https://img.shields.io/badge/Gemini_AI-111827?style=flat-square&logo=googlegemini&logoColor=22d3ee" />
-<img src="https://img.shields.io/badge/AI_Integration-111827?style=flat-square&logo=google&logoColor=22d3ee" />
+<img src="https://img.shields.io/badge/Java-022C22?style=flat-square&logo=openjdk&logoColor=34d399" />
+<img src="https://img.shields.io/badge/Android-022C22?style=flat-square&logo=android&logoColor=34d399" />
+<img src="https://img.shields.io/badge/Gemini_AI-022C22?style=flat-square&logo=googlegemini&logoColor=34d399" />
+<img src="https://img.shields.io/badge/AI_Integration-022C22?style=flat-square&logo=google&logoColor=34d399" />
 
 <br><br>
 
@@ -95,7 +101,7 @@ Developed using JDK 17 and Target SDK 36.
 <br>
 
 <a href="https://github.com/jinyorjin/SIT305-HD-Task4.0-DentalEasy">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0891B2?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-10B981?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -103,7 +109,9 @@ Developed using JDK 17 and Target SDK 36.
 </tr>
 </table>
 
----
+<div align="center">
+<img width="100%" height="2" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="divider">
+</div>
 
 ## TECHNICAL TOOLKIT
 
@@ -111,48 +119,50 @@ Developed using JDK 17 and Target SDK 36.
 
 ### LANGUAGES
 
-![JavaScript](https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=22d3ee)
-![TypeScript](https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=22d3ee)
-![Python](https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=22d3ee)
-![C Sharp](https://img.shields.io/badge/C%23-020617?style=for-the-badge&logo=csharp&logoColor=22d3ee)
-![Java](https://img.shields.io/badge/Java-020617?style=for-the-badge&logo=openjdk&logoColor=22d3ee)
+![JavaScript](https://img.shields.io/badge/JavaScript-022C22?style=for-the-badge&logo=javascript&logoColor=34d399)
+![TypeScript](https://img.shields.io/badge/TypeScript-022C22?style=for-the-badge&logo=typescript&logoColor=34d399)
+![Python](https://img.shields.io/badge/Python-022C22?style=for-the-badge&logo=python&logoColor=34d399)
+![C Sharp](https://img.shields.io/badge/C%23-022C22?style=for-the-badge&logo=csharp&logoColor=34d399)
+![Java](https://img.shields.io/badge/Java-022C22?style=for-the-badge&logo=openjdk&logoColor=34d399)
 
 ### FRONTEND
 
-![React](https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=22d3ee)
-![Next.js](https://img.shields.io/badge/Next.js-020617?style=for-the-badge&logo=nextdotjs&logoColor=22d3ee)
-![HTML5](https://img.shields.io/badge/HTML5-020617?style=for-the-badge&logo=html5&logoColor=22d3ee)
-![CSS3](https://img.shields.io/badge/CSS3-020617?style=for-the-badge&logo=css3&logoColor=22d3ee)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-020617?style=for-the-badge&logo=tailwindcss&logoColor=22d3ee)
+![React](https://img.shields.io/badge/React-022C22?style=for-the-badge&logo=react&logoColor=34d399)
+![Next.js](https://img.shields.io/badge/Next.js-022C22?style=for-the-badge&logo=nextdotjs&logoColor=34d399)
+![HTML5](https://img.shields.io/badge/HTML5-022C22?style=for-the-badge&logo=html5&logoColor=34d399)
+![CSS3](https://img.shields.io/badge/CSS3-022C22?style=for-the-badge&logo=css3&logoColor=34d399)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-022C22?style=for-the-badge&logo=tailwindcss&logoColor=34d399)
 
 ### BACKEND AND APIS
 
-![Node.js](https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=nodedotjs&logoColor=22d3ee)
-![Express](https://img.shields.io/badge/Express-020617?style=for-the-badge&logo=express&logoColor=22d3ee)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-020617?style=for-the-badge&logo=dotnet&logoColor=22d3ee)
-![REST APIs](https://img.shields.io/badge/REST_APIs-020617?style=for-the-badge&logo=fastapi&logoColor=22d3ee)
+![Node.js](https://img.shields.io/badge/Node.js-022C22?style=for-the-badge&logo=nodedotjs&logoColor=34d399)
+![Express](https://img.shields.io/badge/Express-022C22?style=for-the-badge&logo=express&logoColor=34d399)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-022C22?style=for-the-badge&logo=dotnet&logoColor=34d399)
+![REST APIs](https://img.shields.io/badge/REST_APIs-022C22?style=for-the-badge&logo=fastapi&logoColor=34d399)
 
 ### DATABASES
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-020617?style=for-the-badge&logo=postgresql&logoColor=22d3ee)
-![MongoDB](https://img.shields.io/badge/MongoDB-020617?style=for-the-badge&logo=mongodb&logoColor=22d3ee)
-![Firebase](https://img.shields.io/badge/Firebase-020617?style=for-the-badge&logo=firebase&logoColor=22d3ee)
-![Firestore](https://img.shields.io/badge/Firestore-020617?style=for-the-badge&logo=firebase&logoColor=22d3ee)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-022C22?style=for-the-badge&logo=postgresql&logoColor=34d399)
+![MongoDB](https://img.shields.io/badge/MongoDB-022C22?style=for-the-badge&logo=mongodb&logoColor=34d399)
+![Firebase](https://img.shields.io/badge/Firebase-022C22?style=for-the-badge&logo=firebase&logoColor=34d399)
+![Firestore](https://img.shields.io/badge/Firestore-022C22?style=for-the-badge&logo=firebase&logoColor=34d399)
 
 ### TESTING, DEVOPS AND DEPLOYMENT
 
-![Git](https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=22d3ee)
-![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=22d3ee)
-![Docker](https://img.shields.io/badge/Docker-020617?style=for-the-badge&logo=docker&logoColor=22d3ee)
-![Postman](https://img.shields.io/badge/Postman-020617?style=for-the-badge&logo=postman&logoColor=22d3ee)
-![Swagger](https://img.shields.io/badge/Swagger-020617?style=for-the-badge&logo=swagger&logoColor=22d3ee)
-![Jenkins](https://img.shields.io/badge/Jenkins-020617?style=for-the-badge&logo=jenkins&logoColor=22d3ee)
-![Vercel](https://img.shields.io/badge/Vercel-020617?style=for-the-badge&logo=vercel&logoColor=22d3ee)
-![Netlify](https://img.shields.io/badge/Netlify-020617?style=for-the-badge&logo=netlify&logoColor=22d3ee)
+![Git](https://img.shields.io/badge/Git-022C22?style=for-the-badge&logo=git&logoColor=34d399)
+![GitHub](https://img.shields.io/badge/GitHub-022C22?style=for-the-badge&logo=github&logoColor=34d399)
+![Docker](https://img.shields.io/badge/Docker-022C22?style=for-the-badge&logo=docker&logoColor=34d399)
+![Postman](https://img.shields.io/badge/Postman-022C22?style=for-the-badge&logo=postman&logoColor=34d399)
+![Swagger](https://img.shields.io/badge/Swagger-022C22?style=for-the-badge&logo=swagger&logoColor=34d399)
+![Jenkins](https://img.shields.io/badge/Jenkins-022C22?style=for-the-badge&logo=jenkins&logoColor=34d399)
+![Vercel](https://img.shields.io/badge/Vercel-022C22?style=for-the-badge&logo=vercel&logoColor=34d399)
+![Netlify](https://img.shields.io/badge/Netlify-022C22?style=for-the-badge&logo=netlify&logoColor=34d399)
 
 </div>
 
----
+<div align="center">
+<img width="100%" height="2" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="divider">
+</div>
 
 ## MORE PROJECTS
 
@@ -248,7 +258,9 @@ A responsive website presenting my projects, technical skills and development ex
 
 </details>
 
----
+<div align="center">
+<img width="100%" height="2" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="divider">
+</div>
 
 ## CURRENT DIRECTION
 
@@ -260,33 +272,39 @@ A responsive website presenting my projects, technical skills and development ex
 [05] Creating practical AI-supported applications
 ```
 
----
+<div align="center">
+<img width="100%" height="2" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="divider">
+</div>
 
 ## DEVELOPMENT ACTIVITY
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jinyorjin&show_icons=true&hide_border=true&bg_color=020617&title_color=22d3ee&text_color=cbd5e1&icon_color=0891b2" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jinyorjin&show_icons=true&hide_border=true&bg_color=022c22&title_color=34d399&text_color=cbd5e1&icon_color=10b981" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinyorjin&layout=compact&hide_border=true&bg_color=020617&title_color=22d3ee&text_color=cbd5e1" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinyorjin&layout=compact&hide_border=true&bg_color=022c22&title_color=34d399&text_color=cbd5e1" />
 
 <br><br>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=jinyorjin&hide_border=true&background=020617&stroke=0891b2&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=cbd5e1&dates=64748b&currStreakNum=ffffff&sideNums=ffffff" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=jinyorjin&hide_border=true&background=022c22&stroke=10b981&ring=34d399&fire=34d399&currStreakLabel=34d399&sideLabels=cbd5e1&dates=64748b&currStreakNum=ffffff&sideNums=ffffff" />
 
 </div>
 
----
+<div align="center">
+<img width="100%" height="2" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="divider">
+</div>
 
 ## CONTRIBUTION GRAPH
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jinyorjin&bg_color=020617&color=cbd5e1&line=0891b2&point=22d3ee&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jinyorjin&bg_color=022c22&color=cbd5e1&line=10b981&point=34d399&area=true&hide_border=true" />
 
 </div>
 
----
+<div align="center">
+<img width="100%" height="2" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="divider">
+</div>
 
 ## CONNECT
 
@@ -296,9 +314,9 @@ Open to graduate opportunities in software development, backend systems, AI, dat
 
 <br><br>
 
-[![Portfolio](https://img.shields.io/badge/VIEW_MY_PORTFOLIO-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jinyorjin.github.io/qr-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eunjin-kim-02455a160/)
-[![Email](https://img.shields.io/badge/CONTACT_BY_EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lqye92@gmail.com)
+[![Portfolio](https://img.shields.io/badge/VIEW_MY_PORTFOLIO-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jinyorjin.github.io/qr-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-022C22?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eunjin-kim-02455a160/)
+[![Email](https://img.shields.io/badge/CONTACT_BY_EMAIL-022C22?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lqye92@gmail.com)
 
 <br><br>
 
@@ -306,6 +324,6 @@ Open to graduate opportunities in software development, backend systems, AI, dat
 FROM IDEA TO WORKING SOFTWARE
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:0891b2&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:022c22,50:064e3b,100:10b981&height=120&section=footer" />
 
 </div>
