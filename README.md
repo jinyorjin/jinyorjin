@@ -31,9 +31,9 @@ FOCUS       Full-Stack Development, Backend APIs, AI and Data Engineering
 APPROACH    Practical, reliable and user-focused software
 ```
 
-I build applications across frontend development, backend APIs, databases, automated testing and AI integration.
+I am transitioning from healthcare into IT after several years of working in a patient-focused environment.
 
-My work focuses on turning real problems into functional software, from Android applications and REST APIs to real-time web platforms and data-driven systems.
+Through my Computer Science degree and software projects, I have gained experience in frontend development, backend APIs, databases, testing and AI integration. I am looking to begin my IT career by building practical and user-focused software.
 
 <div align="center">
 <img width="100%" height="2" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="divider">
