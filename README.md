@@ -11,7 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jinyorjin.github.io/qr-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eunjin-kim-02455a160/)
 [![Email](https://img.shields.io/badge/EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lqye92@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=jinyorjin&label=PROFILE+VIEWS&color=0891b2&style=for-the-badge)](https://github.com/jinyorjin)
+![Profile Views](https://komarev.com/ghpvc/?username=jinyorjin&label=PROFILE+VIEWS&color=0891b2&style=for-the-badge)
 
 </div>
 
@@ -25,194 +25,287 @@ LOCATION    Melbourne, Australia
 EDUCATION   Bachelor of Computer Science, Deakin University
 FOCUS       Full-Stack Development, Backend APIs, AI and Data Engineering
 APPROACH    Practical, reliable and user-focused software
+```
 
 I build applications across frontend development, backend APIs, databases, automated testing and AI integration.
 
 My work focuses on turning real problems into functional software, from Android applications and REST APIs to real-time web platforms and data-driven systems.
 
-FEATURED WORK
-<table> <tr> <td width="50%" valign="top">
-Aboriginal Art Gallery Discovery
+---
 
-Backend API and location-based discovery system
+## FEATURED WORK
 
+<table>
+<tr>
 
+<td width="50%" valign="top">
 
+<h3>Aboriginal Art Gallery Discovery</h3>
 
+<strong>Backend API and location-based discovery system</strong>
 
+<br><br>
 
+<img src="https://img.shields.io/badge/C%23-111827?style=flat-square&logo=csharp&logoColor=22d3ee" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-111827?style=flat-square&logo=dotnet&logoColor=22d3ee" />
+<img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=22d3ee" />
+<img src="https://img.shields.io/badge/EF_Core-111827?style=flat-square&logo=dotnet&logoColor=22d3ee" />
 
+<br><br>
 
-Developed REST APIs for locations, artworks and nearby discovery
-Implemented geographical search using the Haversine formula
-Managed relational data using Entity Framework Core
-Tested 15 API requests using Postman and Newman
-Completed automated testing with zero failures
+Developed REST APIs for locations, artworks and nearby discovery.
+
+Implemented geographical search using the Haversine distance formula.
+
+Managed relational data using Entity Framework Core and PostgreSQL.
+
+Tested 15 API requests using Swagger, Postman and Newman with zero failures.
+
 <br>
 
-</td> <td width="50%" valign="top">
-Dental Easy
+<a href="https://github.com/jinyorjin/Build-Your-Own-Backend-5.2HD">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0891B2?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-AI-supported Android dental information application
+</td>
 
+<td width="50%" valign="top">
 
+<h3>Dental Easy</h3>
 
+<strong>AI-supported Android dental information application</strong>
 
+<br><br>
 
+<img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=22d3ee" />
+<img src="https://img.shields.io/badge/Android-111827?style=flat-square&logo=android&logoColor=22d3ee" />
+<img src="https://img.shields.io/badge/Gemini_AI-111827?style=flat-square&logo=googlegemini&logoColor=22d3ee" />
+<img src="https://img.shields.io/badge/AI_Integration-111827?style=flat-square&logo=google&logoColor=22d3ee" />
 
+<br><br>
 
+Built an Android application that explains dental terminology and after-care instructions in simple English.
 
-Built an Android application explaining dental terminology in simple English
-Integrated the Gemini API with reliable local fallback responses
-Added urgent symptom checks and confidence information
-Implemented history, search, sharing and after-care guidance
-Developed with JDK 17 and Target SDK 36
+Integrated Gemini AI with reliable local fallback responses.
+
+Added urgent symptom checks, history, sharing and confidence information.
+
+Developed using JDK 17 and Target SDK 36.
+
 <br>
 
-</td> </tr> </table>
-TECHNICAL TOOLKIT
+<a href="https://github.com/jinyorjin/SIT305-HD-Task4.0-DentalEasy">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0891B2?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## TECHNICAL TOOLKIT
+
 <div align="center">
-LANGUAGES
 
+### LANGUAGES
 
+![JavaScript](https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=22d3ee)
+![TypeScript](https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=22d3ee)
+![Python](https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=22d3ee)
+![C Sharp](https://img.shields.io/badge/C%23-020617?style=for-the-badge&logo=csharp&logoColor=22d3ee)
+![Java](https://img.shields.io/badge/Java-020617?style=for-the-badge&logo=openjdk&logoColor=22d3ee)
 
+### FRONTEND
 
+![React](https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=22d3ee)
+![Next.js](https://img.shields.io/badge/Next.js-020617?style=for-the-badge&logo=nextdotjs&logoColor=22d3ee)
+![HTML5](https://img.shields.io/badge/HTML5-020617?style=for-the-badge&logo=html5&logoColor=22d3ee)
+![CSS3](https://img.shields.io/badge/CSS3-020617?style=for-the-badge&logo=css3&logoColor=22d3ee)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-020617?style=for-the-badge&logo=tailwindcss&logoColor=22d3ee)
 
+### BACKEND AND APIS
 
+![Node.js](https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=nodedotjs&logoColor=22d3ee)
+![Express](https://img.shields.io/badge/Express-020617?style=for-the-badge&logo=express&logoColor=22d3ee)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-020617?style=for-the-badge&logo=dotnet&logoColor=22d3ee)
+![REST APIs](https://img.shields.io/badge/REST_APIs-020617?style=for-the-badge&logo=fastapi&logoColor=22d3ee)
 
+### DATABASES
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-020617?style=for-the-badge&logo=postgresql&logoColor=22d3ee)
+![MongoDB](https://img.shields.io/badge/MongoDB-020617?style=for-the-badge&logo=mongodb&logoColor=22d3ee)
+![Firebase](https://img.shields.io/badge/Firebase-020617?style=for-the-badge&logo=firebase&logoColor=22d3ee)
+![Firestore](https://img.shields.io/badge/Firestore-020617?style=for-the-badge&logo=firebase&logoColor=22d3ee)
 
+### TESTING, DEVOPS AND DEPLOYMENT
 
-FRONTEND
-
-
-
-
-
-
-
-
-
-
-BACKEND AND APIS
-
-
-
-
-
-
-
-
-DATABASES
-
-
-
-
-
-
-
-
-TESTING, DEVOPS AND DEPLOYMENT
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Git](https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=22d3ee)
+![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=22d3ee)
+![Docker](https://img.shields.io/badge/Docker-020617?style=for-the-badge&logo=docker&logoColor=22d3ee)
+![Postman](https://img.shields.io/badge/Postman-020617?style=for-the-badge&logo=postman&logoColor=22d3ee)
+![Swagger](https://img.shields.io/badge/Swagger-020617?style=for-the-badge&logo=swagger&logoColor=22d3ee)
+![Jenkins](https://img.shields.io/badge/Jenkins-020617?style=for-the-badge&logo=jenkins&logoColor=22d3ee)
+![Vercel](https://img.shields.io/badge/Vercel-020617?style=for-the-badge&logo=vercel&logoColor=22d3ee)
+![Netlify](https://img.shields.io/badge/Netlify-020617?style=for-the-badge&logo=netlify&logoColor=22d3ee)
 
 </div>
-MORE PROJECTS
-<details> <summary><strong>BabyNaps — React and Firebase Sleep Tracker</strong></summary> <br>
+
+---
+
+## MORE PROJECTS
+
+<details>
+<summary><strong>BabyNaps — React and Firebase Sleep Tracker</strong></summary>
+
+<br>
 
 A real-time baby sleep tracking application built with React and Firebase.
 
-Key features
+**Key features**
 
-Real-time sleep logging
-Timeline visualisation
-Firebase data storage
-Responsive interface
+- Real-time sleep logging
+- Timeline visualisation
+- Firebase data storage and synchronisation
+- Responsive user interface
 
-View Repository
+[View Repository](https://github.com/jinyorjin/babynaps)
 
-</details> <br> <details> <summary><strong>Weight Tracker Web — Goal-Based Progress Tracker</strong></summary> <br>
+</details>
+
+<br>
+
+<details>
+<summary><strong>Weight Tracker Web — Goal-Based Progress Tracker</strong></summary>
+
+<br>
 
 A web application for recording and reviewing weight progress.
 
-Key features
+**Key features**
 
-Create, read, update and delete entries
-Calendar-based history
-Goal indicators
-Firebase integration
+- Create, read, update and delete entries
+- Calendar-based history
+- Goal indicators
+- Firebase integration
 
-View Repository
+[View Repository](https://github.com/jinyorjin/weight-tracker)
 
-</details> <br> <details> <summary><strong>Weight Tracker Mobile — Mobile-First Tracking Application</strong></summary> <br>
+</details>
+
+<br>
+
+<details>
+<summary><strong>Weight Tracker Mobile — Mobile-First Tracking Application</strong></summary>
+
+<br>
 
 A mobile-focused version of the weight tracking system.
 
-Key features
+**Key features**
 
-Mobile-first user interface
-Firebase synchronisation
-Progress tracking
-Simple entry management
+- Mobile-first user interface
+- Firebase synchronisation
+- Progress tracking
+- Simple entry management
 
-View Repository
+[View Repository](https://github.com/jinyorjin/weight-tracker-mobile)
 
-</details> <br> <details> <summary><strong>DEV@Deakin — Community Q&A Platform</strong></summary> <br>
+</details>
 
-A full-stack Q&A platform developed using React and Firebase.
+<br>
 
-Key features
+<details>
+<summary><strong>DEV@Deakin — Community Q&amp;A Platform</strong></summary>
 
-Firebase Authentication
-Firestore database
-Question and answer functionality
-Stripe subscription integration
-Netlify and Heroku deployment
+<br>
 
-View Repository
+A full-stack question-and-answer platform developed using React and Firebase.
 
-</details> <br> <details> <summary><strong>Personal Portfolio — React and Tailwind CSS</strong></summary> <br>
+**Key features**
+
+- Firebase Authentication
+- Firestore database
+- Question-and-answer functionality
+- Stripe subscription integration
+- Netlify and Heroku deployment
+
+[View Repository](https://github.com/jinyorjin/9.1Task)
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>Personal Portfolio — React and Tailwind CSS</strong></summary>
+
+<br>
 
 A responsive website presenting my projects, technical skills and development experience.
 
-View Repository
+[View Repository](https://github.com/jinyorjin/Task-1.1P)
 
 </details>
-CURRENT DIRECTION
+
+---
+
+## CURRENT DIRECTION
+
+```text
 [01] Building stronger data engineering and ETL skills
 [02] Expanding AWS and cloud computing knowledge
 [03] Developing maintainable frontend and backend architecture
 [04] Improving automated API and integration testing
 [05] Creating practical AI-supported applications
-DEVELOPMENT ACTIVITY
-<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jinyorjin&show_icons=true&hide_border=true&bg_color=020617&title_color=22d3ee&text_color=cbd5e1&icon_color=0891b2" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinyorjin&layout=compact&hide_border=true&bg_color=020617&title_color=22d3ee&text_color=cbd5e1" /> <br> <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=jinyorjin&hide_border=true&background=020617&stroke=0891b2&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=cbd5e1&dates=64748b&currStreakNum=ffffff&sideNums=ffffff" /> </div>
-CONTRIBUTION GRAPH
-<div align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jinyorjin&bg_color=020617&color=cbd5e1&line=0891b2&point=22d3ee&area=true&hide_border=true" /> </div>
-CONNECT
+```
+
+---
+
+## DEVELOPMENT ACTIVITY
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jinyorjin&show_icons=true&hide_border=true&bg_color=020617&title_color=22d3ee&text_color=cbd5e1&icon_color=0891b2" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinyorjin&layout=compact&hide_border=true&bg_color=020617&title_color=22d3ee&text_color=cbd5e1" />
+
+<br><br>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=jinyorjin&hide_border=true&background=020617&stroke=0891b2&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=cbd5e1&dates=64748b&currStreakNum=ffffff&sideNums=ffffff" />
+
+</div>
+
+---
+
+## CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jinyorjin&bg_color=020617&color=cbd5e1&line=0891b2&point=22d3ee&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## CONNECT
+
 <div align="center">
 
 Open to graduate opportunities in software development, backend systems, AI, data and cloud technology.
 
 <br><br>
 
+[![Portfolio](https://img.shields.io/badge/VIEW_MY_PORTFOLIO-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jinyorjin.github.io/qr-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eunjin-kim-02455a160/)
+[![Email](https://img.shields.io/badge/CONTACT_BY_EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lqye92@gmail.com)
 
+<br><br>
 
-
-
-
-<br>
+```text
 FROM IDEA TO WORKING SOFTWARE
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:0891b2&height=120&section=footer" /> </div> ```
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:0891b2&height=120&section=footer" />
+
+</div>
